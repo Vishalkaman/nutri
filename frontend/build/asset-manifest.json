@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bb63d31.css",
+    "main.js": "/static/js/main.9bc54414.js",
+    "static/media/titan_background.jpeg": "/static/media/titan_background.f6cce666277115b71067.jpeg",
+    "static/media/public-sans-latin-400-normal.woff": "/static/media/public-sans-latin-400-normal.9d2594c80c36f4b1e2ee.woff",
+    "static/media/titan-clear-logo.png": "/static/media/titan-clear-logo.8341dbd37de5327dc355.png",
+    "static/media/public-sans-latin-400-normal.woff2": "/static/media/public-sans-latin-400-normal.4758638f2eeeaf0dd6c4.woff2",
+    "static/media/public-sans-latin-ext-400-normal.woff": "/static/media/public-sans-latin-ext-400-normal.8d4f2b95588a9c535ad8.woff",
+    "static/media/public-sans-latin-ext-400-normal.woff2": "/static/media/public-sans-latin-ext-400-normal.cbd34e580c9965bfc3c9.woff2",
+    "static/media/public-sans-vietnamese-400-normal.woff": "/static/media/public-sans-vietnamese-400-normal.9b355e63a25fe5dec690.woff",
+    "static/media/public-sans-vietnamese-400-normal.woff2": "/static/media/public-sans-vietnamese-400-normal.4490eed5a77c4164de3d.woff2",
+    "index.html": "/index.html",
+    "main.6bb63d31.css.map": "/static/css/main.6bb63d31.css.map",
+    "main.9bc54414.js.map": "/static/js/main.9bc54414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb63d31.css",
+    "static/js/main.9bc54414.js"
+  ]
+}
